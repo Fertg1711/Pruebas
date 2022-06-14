@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 body {
@@ -43,7 +43,7 @@ body {
   max-width: 400px;
   min-width: 200px;
   margin: 10px 0px;
-  padding: 7px 0px;
+  padding: 7px 4px;
   border: 2px white solid;
   color: white;
 }
