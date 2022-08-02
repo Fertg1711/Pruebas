@@ -73,14 +73,18 @@ body {
   border: none;
   padding: 7px;
   border-radius: 40%;
-  margin: 30px auto;
-  background: rgb(77, 77, 12);
+  background: rgb(68, 70, 201);
   color: white;
   width: 40%;
 }
 
 .form__submit:hover {
   cursor: pointer;
-  background: rgb(196, 196, 31);
-  color: black;
+  background: rgb(26, 30, 211);
+  color: white;
+}
+
+.form__label-1 {
+  text-align: center;
+  margin: 30px 0;
 }
